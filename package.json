@@ -1,0 +1,12 @@
+{
+  "name": "test-cicd",
+  "version": "1.0.0",
+  "description": "A simple CI/CD demo for GitHub Pages",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

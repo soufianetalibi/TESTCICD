@@ -8,3 +8,5 @@ function displaySum() {
     const result = add(num1, num2);
     document.getElementById('result').innerText = `Result: ${result}`;
 }
+
+module.exports = { add };
